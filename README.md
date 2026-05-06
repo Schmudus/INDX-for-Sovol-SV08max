@@ -1,4 +1,4 @@
-# INDX-for-Sovol-SV08max
+# INDX for Sovol SV08max
 ## Modification necessary to the Sovol SV08max
 My printer has modificated electronics. The following may not be applicable to standard SV08max!
 
