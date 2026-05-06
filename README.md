@@ -21,7 +21,7 @@ THE FILES IN THIS REPOSITORY OR THE USE OR OTHER DEALINGS IN THE FILES IN THIS R
 THE FILES IN THIS REPOSITORY ARE OPEN SOURCE.
 
 ## Links
+https://www.bondtech.se/indx-by-bondtech/ </br>
 https://github.com/BondtechAB/INDX </br>
 https://github.com/zruncho3d/nudge </br>
-https://www.bondtech.se/indx-by-bondtech/ </br>
 https://oshwa.org/resources/open-source-hardware-definition/ </br>
