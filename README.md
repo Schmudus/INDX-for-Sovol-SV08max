@@ -18,7 +18,7 @@ CERN Open Hardware Licence Version 2 - Permissive
 
 
 ### Links
-https://github.com/zruncho3d/nudge
-https://www.bondtech.se/indx-by-bondtech/
-https://oshwa.org/resources/open-source-hardware-definition/
+https://github.com/zruncho3d/nudge </br>
+https://www.bondtech.se/indx-by-bondtech/ </br>
+https://oshwa.org/resources/open-source-hardware-definition/ </br>
 https://choosealicense.com/licenses/cern-ohl-p-2.0/
