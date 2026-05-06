@@ -14,7 +14,7 @@ I use a D2F-JO1F switch with a D2F to JST board (source: trianglelab).
 ## Nozzle offset determination
 It is recomended to use nudge. To use it I made a holder for nudge which is screwed instread of the right handle in the printer. After determination the nozzle offsets you need to dismantle the holder.
 
-## Comment
+## Disclaimer
 THE FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILES OR 
 THE USE OR OTHER DEALINGS IN THE FILES.
