@@ -12,6 +12,6 @@ This work is Open-Source-Hardware (OSHW). ou are allowed to copy, modify, fork, 
 You are NOT allowed to use it for commercial use or to patent it.
 
 
-##Links
+### Links
 https://github.com/zruncho3d/nudge
 https://www.bondtech.se/indx-by-bondtech/
