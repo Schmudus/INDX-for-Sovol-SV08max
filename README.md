@@ -19,9 +19,8 @@ THE FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE FILES OR 
 THE USE OR OTHER DEALINGS IN THE FILES.
 
-### Links
+## Links
 https://github.com/BondtechAB/INDX </br>
 https://github.com/zruncho3d/nudge </br>
 https://www.bondtech.se/indx-by-bondtech/ </br>
 https://oshwa.org/resources/open-source-hardware-definition/ </br>
-https://choosealicense.com/licenses/cern-ohl-p-2.0/
