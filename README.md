@@ -2,6 +2,10 @@
 ## Modification necessary to the Sovol SV08max
 My printer has modificated electronics. The following may not be applicable to standard SV08max!
 
+## 1515 extrusion for nozzle dock
+To park/store the nozzles it is necessary to provide a 1515 extrusion in front of the printer. I made a simple, non-adjustable holder for it. It is mounted on the flying gantry.
+The camera need to move away. Just unscrew it (one screw), pull the cable gently out of the right extrusion and place it in the back. There are 2 possible positions at the back gantry where already threads are placed. 
+
 ## X-axis limit switch
 To use INDX it is necessary to find another limit switch position for X-Axis. The INDX toolhead have a plug for limit switch but (depending on your setup) not have any space to add aswitch.
 Therefore I moved it to the right side of the gantry. 
