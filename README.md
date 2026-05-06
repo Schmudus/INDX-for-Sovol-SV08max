@@ -12,7 +12,7 @@ Therefore I moved it to the right side of the gantry.
 I use a D2F-JO1F switch with a D2F to JST board (source: trianglelab).
 
 ## Nozzle offset determination
-It is also recomended to use nudge
+It is recomended to use nudge
 
 This work is Open-Source-Hardware (OSHW). ou are allowed to copy, modify, fork, print for free.
 You are NOT allowed to use it for commercial use or to patent it.
@@ -24,6 +24,7 @@ THE USE OR OTHER DEALINGS IN THE FILES.
 
 
 ### Links
+https://github.com/BondtechAB/INDX </br>
 https://github.com/zruncho3d/nudge </br>
 https://www.bondtech.se/indx-by-bondtech/ </br>
 https://oshwa.org/resources/open-source-hardware-definition/ </br>
