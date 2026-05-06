@@ -24,5 +24,5 @@ THE FILES IN THIS REPOSITORY ARE OPEN SOURCE.
 https://www.bondtech.se/indx-by-bondtech/ </br>
 https://github.com/BondtechAB/INDX </br>
 https://github.com/zruncho3d/nudge </br>
-https://oshwa.org/resources/open-source-hardware-definition/ </br>
 https://github.com/Sovol3d/SV08MAX </br>
+https://oshwa.org/resources/open-source-hardware-definition/ </br>
