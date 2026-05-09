@@ -20,7 +20,7 @@ Thx to Clutch Kick for the design with smooth outet walls.
 I did some changes for installation of INDX:
 - Closed the original PTFE routing in the right back part
 - Remake the back middle part:
-  - 6 holes for PTFE routing and one bigger for CPAP hose
+  - 6 holes for PTFE routing and one bigger for CPAP hose (SV08max TopHat smooth middle back PTFE)
   - same as before but with 6 openings for stainless spring steel 7.5x0.5mm (SV08max TopHat smooth middle back PTFE+spring steel)
 - Holder for the PTFE tube with spring steel 7.5x0.5mm
 
