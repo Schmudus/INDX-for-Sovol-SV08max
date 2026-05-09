@@ -22,7 +22,7 @@ I did some changes for installation of INDX:
 - Remake the back middle part:
   - 6 holes for PTFE routing and one bigger for CPAP hose (SV08max TopHat smooth middle back PTFE)
   - same as before but with 6 openings for stainless spring steel 7.5x0.5mm (SV08max TopHat smooth middle back PTFE+spring steel)
-- Holder for the PTFE tube with spring steel 7.5x0.5mm
+- Holder for the PTFE tube with spring steel 7.5x0.5mm (PTFE springsteel holder)
 
 ## Disclaimer
 THE FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
