@@ -15,6 +15,15 @@ I use a D2F-JO1F switch with a D2F to JST board (source: trianglelab).
 ## Nozzle offset determination
 It is recomended to use nudge. To use it I made a holder for nudge which is screwed instread of the right handle in the printer. After determination the nozzle offsets you need to dismantle the holder.
 
+## Top riser
+Thx to Clutch Kick for the design with smooth outet walls.
+I did some changes for installation of INDX:
+- Closed the original PTFE routing in the right back part
+- Remake the back middle part:
+  - 6 holes for PTFE routing and one bigger for CPAP hose
+  - same as before but with 6 openings for stainless spring steel 8x0.5mm
+- Holder for the PTFE tube with spring steel 8x0.5mm
+
 ## Disclaimer
 THE FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
@@ -27,3 +36,6 @@ https://github.com/BondtechAB/INDX </br>
 https://github.com/zruncho3d/nudge </br>
 https://github.com/Sovol3d/SV08MAX </br>
 https://oshwa.org/resources/open-source-hardware-definition/ </br>
+https://www.printables.com/model/1456462-sv08max-riser-for-stock-enclosure-smooth-outer-wal </br>
+
+
