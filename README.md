@@ -20,7 +20,7 @@ I use a D2F-JO1F switch with a D2F to JST board (source: trianglelab).
 ## Nozzle offset determination
 Nudge or camera is recommended while camera is already implemented in INDX macros.
 To use nudge I made a holder for nudge which is screwed instread of the right handle in the printer. After determination the nozzle offsets you need to dismantle the holder.
-It is necessary to print some space because of the changed bed heigt. The nudge plate should sit good fixed on the printer bed to avoid wrong measurement.
+It is necessary to print some spacer because of the changed bed height. The nudge plate should sit good fixed on the printer bed to avoid wrong measurement.
 
 ## Top riser
 Thx to Clutch Kick for the design with smooth outet walls.
