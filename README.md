@@ -39,6 +39,7 @@ Installed latest
 - Shake 'n' tune
 - Sonar
 - Timelapse
+- LED effect
 - INDX configuration files (INDX is implemented in Kalico, no installation necessary)
 
 ## Disclaimer
@@ -56,4 +57,6 @@ https://github.com/Sovol3d/SV08MAX </br>
 https://oshwa.org/resources/open-source-hardware-definition/ </br>
 https://www.printables.com/model/1456462-sv08max-riser-for-stock-enclosure-smooth-outer-wal </br>
 https://github.com/nic335/Axiscope </br>
+https://github.com/julianschill/klipper-led_effect </br>
+
 
