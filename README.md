@@ -37,6 +37,16 @@ NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES 
 THE FILES IN THIS REPOSITORY OR THE USE OR OTHER DEALINGS IN THE FILES IN THIS REPOSITORY.
 THE FILES IN THIS REPOSITORY ARE OPEN SOURCE.
 
+## Config files
+Files and config are still in work but some parts can be used as example how it works.
+Installed latest
+- Kalico
+- Axiscope
+- Shake 'n' tune
+- Sonar
+- Timelapse
+- INDX configuration files (INDX is implemented in Kalico, no installation necessary)
+
 ## Links
 https://www.bondtech.se/indx-by-bondtech/ </br>
 https://github.com/BondtechAB/INDX </br>
