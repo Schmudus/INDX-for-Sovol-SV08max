@@ -55,5 +55,5 @@ https://github.com/zruncho3d/nudge </br>
 https://github.com/Sovol3d/SV08MAX </br>
 https://oshwa.org/resources/open-source-hardware-definition/ </br>
 https://www.printables.com/model/1456462-sv08max-riser-for-stock-enclosure-smooth-outer-wal </br>
-https://github.com/nic335/Axiscope/blob/main/README.md </br>
+https://github.com/nic335/Axiscope </br>
 
