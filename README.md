@@ -32,6 +32,7 @@ I did some changes for installation of INDX:
 - Holder for the PTFE tube with spring steel 7.5x0.5mm (PTFE springsteel holder)
 
 ## Config files
+Files moved to Klipper backup in: https://github.com/Schmudus/SV08max/tree/main/printer_data/config
 Files and config are still in work but some parts can be used as example how it works.
 Installed latest
 - Kalico
