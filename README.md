@@ -1,5 +1,3 @@
-# Attention: INDX PCB cover with fan 2525.stl is NOT 2525,its 3030. Will correct it later
-
 # INDX for Sovol SV08max
 ## Modification necessary to the Sovol SV08max
 My printer has modificated electronics. The following may not be applicable to standard SV08max!
