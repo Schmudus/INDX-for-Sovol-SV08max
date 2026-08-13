@@ -43,6 +43,32 @@ Installed latest
 - LED effect
 - INDX configuration files (INDX is implemented in Kalico, no installation necessary)
 
+
+## Changes in my INDX config files
+Code change:
+Added following pull requests:<br>
+https://github.com/BondtechAB/INDX/pull/4<br>
+https://github.com/BondtechAB/INDX/pull/11<br>
+https://github.com/BondtechAB/INDX/pull/13<br>
+https://github.com/BondtechAB/INDX/pull/28<br>
+https://github.com/BondtechAB/INDX/pull/33<br>
+
+Will solve following issues as well:<br>
+https://github.com/BondtechAB/INDX/issues/5<br>
+https://github.com/BondtechAB/INDX/issues/16<br>
+https://github.com/BondtechAB/INDX/issues/19<br>
+https://github.com/BondtechAB/INDX/issues/30<br>
+
+Added: Heating nozzle to 150°C (adjustable) while CAL_Z to have a better offset measurement.
+Move Z before XY move (park) while tool change to avoid any scrapping on the printed part.
+Move XY first before Z (back to print area) to avoid any scrapping on the printed part.
+
+Added simple Spoolman support:
+Fill in your spool ID in ```index.cfg``` under ```[gcode_macro _Filament]```
+
+Added simple heat capacity per tool:
+Fill in your measured heat capacity from macro LOAD_FILAMENT in ```index.cfg``` under ```[gcode_macro _Filament]```
+
 ## Disclaimer
 THE FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH 
